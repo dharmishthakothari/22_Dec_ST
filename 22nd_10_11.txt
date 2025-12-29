@@ -1,0 +1,175 @@
+---Module 1 
+
+SDLC - Software + Development + Life Cycle 
+
+Software --- fb ,whatsapp , gstore,map 
+		benifts 
+			communicate , share
+			life easy
+		Set of programs that have some specific purpose 
+
+	develope - phares/stages/steps/cycle
+ 		
+Software developement is not only doing single task but it includes set of phares/task
+
+	6 phares
+
+	1. REquirement gathering  - gather the requiremenmt from client/user
+	2. Analysis - Analyse each reqirement in detail
+	3. Desgining -How it looks 
+	4. Coding/implentation/development - coding
+	5. Testing - validate/check
+	6 . Maintainance - to maintain 
+
+
+Roles and Resposiblity 
+	- BDE
+	- BA
+	- QA/QA Engineer
+	- SEO
+	- Designer 
+	- Manual Tester
+	- Full Stack Develper
+	- Python/php/mobile Developer
+	- Mern Stack
+	- Database developer
+	- Data scneintist
+	- Data Anayalitcs 
+	- Network engineer
+	- Netowking
+	- SE
+
+
+
+SRS - System Requirement Specification 
+Document 
+	Project Description 
+	Module Description 
+	Scope/Features
+	out of scope
+	Requirements -Functional & Non - Functional 
+		Functional - features/functionality of applcation eg. whatapp (chat,share,status.calling,payment)
+		non functional  - apart from functionality e.g whatsapp (time to taking to load,  easy to use , response time,no of user handle at a time ,compatibile Performance,load,security,stress ,comatibility)
+
+	Tools and Technology used 
+		Front end
+		back end
+		database 
+		Network
+		
+Lab task : google - SRS document of E-commerce ,social media
+
+
+26th Dec 
+
+SDLC --- phares ka arrangement 
+ 1. sequential model
+		Waterfall model 
+		V model (verification and validation)
+
+ 2. iterative model 
+		Spiral 
+		iterative & incremental model
+		agile model
+
+Testing methodogies 
+1. Waterfall 
+	requirement is less
+	small project
+	bugs found at very later so 
+ 
+2. agile 
+	big project
+	project starts with samll requirement .
+	later on can have more requiments but initaly all requimement must know .
+
+	small time interval ,test signle intaval 
+	Social Media 
+		User module
+		Media  - reels,videos ....
+		Sharing
+		Advaterminsetn
+		
+	1-15 days(sprint - time interval in agile ) - TI1 -- User Module 
+	16-30 days TI2  -- Media 
+	30 - 45 days TI3 - sharing ,advantiment 
+	
+	havily depends on customer 
+
+29th Dec
+
+	Agile Menifesto 4
+	12 principles 
+
+	Testing ?
+		check ,work 
+		process , 
+		evaluate 
+		functionaltiy
+		user requirment
+		satishfaction
+
+	Objectives ?
+		1. find error/defect/bug
+		2. check requirement
+		3. User satishfaction
+		4. Quality 
+	
+	functionality & non functional 
+		What does - functionality
+		How - non functionality 
+		both are equally important
+	
+	3. Iterative and Incremental Model 
+
+		1. analysis - design - implentation - testing
+REquirement	2. analysis - design - implentation - testing
+		3. analysis - design - implentation - testing
+		4. analysis - design - implentation - testing	
+
+	4. V Model - Verification and Validation Model
+	5. Spiral - complex and big project 
+		  - initlial requirement 
+		  - Risk indetification 
+		 - infinite 
+	6. XP -		agile part 
+
+	
+WHEN TO START and When to Stop?
+	Start ?
+		1. At the begining of project
+		2. when requirement are fixed
+		3. As soon as possible
+		
+		Testing activities 
+
+
+	
+
+
+
+
+		
+
+
+		
+
+
+
+
+
+
+		
+
+
+
+			
+
+
+
+
+
+
+
+	
+
