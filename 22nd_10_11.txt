@@ -143,6 +143,30 @@ WHEN TO START and When to Stop?
 		
 		Testing activities 
 
+31st Dec
+	Testing ?
+	Spiral
+	V model
+	Xp 
+	Testing objectives 
+	When to start/when to stop 
+
+Key Principles of Testing
+- exhuastive testing is impossible 
+       combination of each condition or value is not feasible e.g c_no check 
+- Early Testing
+      start testing as early as possible 
+- Pestiside paradox 
+		Review and revised your test cases periodically .
+- Testing shows presence of defect 
+	 porbebility of error/defect arise may reduced but doesn' gurenteed thr is no defect 
+-Absence of error fallacy 
+		must defect free and fulfill client requirement
+-Defect clusting
+		small module may contain more defect then bigger one
+-Testing context depended
+		
+
 
 	
 
@@ -172,4 +196,5 @@ WHEN TO START and When to Stop?
 
 
 	
+
 
