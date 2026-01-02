@@ -168,8 +168,33 @@ Key Principles of Testing
 		
 
 
-	
+	Errors - defects - failure 
 
+error - human mistake
+defect - deviation from expected to actual result 
+		diffrence between expected and actual result
+
+Lab task : fundamentals of Software testing interview questions 
+2. peer to peer 
+
+
+RISK -> possilbity of failure 
+		types 
+1. Process oriented  - process 
+2. Product oriented  ---  msoffice 
+3. project risk ---  topsERP --
+
+Roles and Responsiblity ---> 
+	Software Tester/Software Test Engineer		---- > To test product , To design the test case ,execute the test case , to log the defect 
+	Test Manager/Test Leader/Test Analyst  ---> Test plan document , test conditions/scenario , work allocation ,foloww up , Review  
+QA-Quality Assurance  -  Process ,review , prevention 
+QC - Quality Control - prodct , actual testing ,finding 
+
+ test cases - documeten specify how/detail of test condition , test scripts - script test condtion- test cases - automate -manual  , and test data - 
+
+
+Lab task : Read all the topics -error/defect/failure - sdlc-QA/QC - Roles - Risk - Priciples 
+Test Plan document - google
 
 
 
@@ -196,5 +221,6 @@ Key Principles of Testing
 
 
 	
+
 
 
