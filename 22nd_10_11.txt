@@ -203,7 +203,25 @@ Test Plan document - google
 
 		
 
+5th Jan
 
+		Test Activities 
+		SDLC - STLC 
+		i) Test Planning  --- what to test/scope ,roles ,resoruce planning ,manual-automation
+		ii) test Analysis  ---analisys -test condition /senario 
+		iii) Test Enviroment setup  --- system set -software installation-tools 
+		iV)Test case design  -- how to test ,detail 
+		v) Test case implementation/Execution - execute -log pass/fail
+		vi)Test clouser  - all test case execution 
+		vii) Test reporting - report lesson learnt 
+
+		
+		Test Planning 
+
+
+Lab Task : Test Plan Documentnt
+	STLC 
+	STLC vs SDLC
 
 
 
@@ -221,6 +239,7 @@ Test Plan document - google
 
 
 	
+
 
 
 
