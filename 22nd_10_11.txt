@@ -223,6 +223,50 @@ Lab Task : Test Plan Documentnt
 	STLC 
 	STLC vs SDLC
 
+7th Jan
+	Test Plan Document
+	Test Paln vs Test stretagy 
+
+Client requirement --->e-commerce - module category-product-browse(add to cart,procede to buy)-payment-login-registration-review
+must handle 10000 users at a time
+
+technology - front end - React
+	     Database - MYSQL
+	     Deploye on azure	
+
+		
+
+Test Plan 
+	-scope / out of scope
+	- resource planning - man ,budget,time
+	- Types of Testing 
+	- Entry-Exit criteria
+	- Tools/Technologies 
+
+-- Streagy /approach 
+
+--Testing / Debugging 
+To verify/check ---to find-fix 
+tester 		---developer
+
+
+QA Vs QC
+
+Process    	product
+during SDLC	actual testing
+
+9th Jan
+	High Level Requirement 
+	--requirement document -- high level 
+	Practicals
+
+	Lab task : Finish FB HLR and Amazon HLR
+
+
+Monday 
+Tarun --Error-defect-failure
+Yash - Test Planning
+Rohit - Principles
 
 
 
@@ -239,6 +283,7 @@ Lab Task : Test Plan Documentnt
 
 
 	
+
 
 
 
