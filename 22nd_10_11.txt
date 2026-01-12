@@ -197,10 +197,6 @@ Lab task : Read all the topics -error/defect/failure - sdlc-QA/QC - Roles - Risk
 Test Plan document - google
 
 
-
-		
-
-
 		
 
 5th Jan
@@ -269,9 +265,25 @@ Yash - Test Planning
 Rohit - Principles
 
 
+12th Jan
+   TEsting vs Debugging 
+		bug find  , fix bug
+		TEster  , Developer
+	    TEsting , debugg/development
 
+
+Roles --- IT company 
+        Developers ,Testters , BDE ,Desginers,Analyst , Networking , Admin , 
+
+		Testing --- Tester/TEst Manager/Test Analyst/Software Test Engineer
+                    SDTE 
 		
+		Roles & Responsiliblity --
 
+
+Test Scenario 	--	It's condition
+					What to test
+Lab task : Test Scenario 1. water bottle , Chair , switch board 
 
 
 			
@@ -283,6 +295,7 @@ Rohit - Principles
 
 
 	
+
 
 
 
