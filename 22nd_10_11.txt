@@ -285,6 +285,22 @@ Test Scenario 	--	It's condition
 					What to test
 Lab task : Test Scenario 1. water bottle , Chair , switch board 
 
+19th Jan
+
+
+STLC - REqurement Analysis , Test Planning, Test case Deverlopment,Enviroment setup , test execution,test clouser
+
+Testing Levels ---
+        unit testing
+        Integration Testing
+        System Testing
+        Acceptance Testing
+
+Lab task : Read Testing Levels 
+
+
+    
+
 
 			
 
@@ -295,6 +311,7 @@ Lab task : Test Scenario 1. water bottle , Chair , switch board
 
 
 	
+
 
 
 
