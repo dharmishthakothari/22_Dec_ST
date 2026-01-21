@@ -298,6 +298,24 @@ Testing Levels ---
 
 Lab task : Read Testing Levels 
 
+21st Jan
+   Testing Levels 
+      Unit Testing  ---To test individual component or module -- Developer - Whitebox 
+	  Integration    -- To test intaraction between 2/more coponenent/module - dala flow --DEveloper/Tester --							Black+White
+						Approach (Tops-down , Bottom-Up and big-bang)
+							Upper modules are ready to integrate/test but lower modules are not ready to integrate then we are using dummy module called stub .
+							Bottom module are ready to tegrate/test but upper modles are not ready then we are using dummy moduled calle driver .
+							All module must be ready and test simultanesally 
+
+	  System   		--  To test whole system as one . 
+						Individual 	QA /team 
+						Black box testing
+						Functional and Non-function Testing
+
+	  Acceptance --		Accouring to client requirement are satishfied/business needs 
+						QA/cusotmers
+						Alpha and Beta
+					
 
     
 
@@ -311,6 +329,7 @@ Lab task : Read Testing Levels
 
 
 	
+
 
 
 
