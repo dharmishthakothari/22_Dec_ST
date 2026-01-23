@@ -316,6 +316,15 @@ Lab task : Read Testing Levels
 						QA/cusotmers
 						Alpha and Beta
 					
+23rd Jan 
+---> Practicals --- HLR , Test scenario , test cases , defect report  - Excel
+		HLR 
+       Test scenario --- ?codition , What to test
+	   Test cases --->Detail description of Sceanrio, How to test ,bases on  test scenario ,test cases are created.
+
+
+JIRA
+POSTMAN
 
     
 
@@ -329,6 +338,7 @@ Lab task : Read Testing Levels
 
 
 	
+
 
 
 
