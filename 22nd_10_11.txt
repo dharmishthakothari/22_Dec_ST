@@ -322,9 +322,12 @@ Lab task : Read Testing Levels
        Test scenario --- ?codition , What to test
 	   Test cases --->Detail description of Sceanrio, How to test ,bases on  test scenario ,test cases are created.
 
+28th Jan
+username /password valid --expected --login successfuly  actual - login sucessfull pass
+username/password invalid -- expected --error actual -- login successfully - fail 
 
-JIRA
-POSTMAN
+Actual = Expected ---pass
+Actual!=Expected -- Fail
 
     
 
@@ -338,6 +341,7 @@ POSTMAN
 
 
 	
+
 
 
 
