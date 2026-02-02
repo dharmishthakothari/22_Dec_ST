@@ -329,7 +329,15 @@ username/password invalid -- expected --error actual -- login successfully - fai
 Actual = Expected ---pass
 Actual!=Expected -- Fail
 
-    
+2nd Feb
+
+Functional Testing --- To check functionality of system , all functionality of system/application working or not
+                   --- What system does 
+                  --- eg. gmail ... componse mail , inbox , draft, thresh
+Non Functionaltiy ---Apart from functionaltiy , system working properly or not , performance testing 
+					 load testing , usability testing , compatiblity testing (OS , browser , xsfdsd
+                  ---How system does .
+					--- load time ,responce time ,security , easy to use 
 
 
 			
@@ -341,6 +349,7 @@ Actual!=Expected -- Fail
 
 
 	
+
 
 
 
