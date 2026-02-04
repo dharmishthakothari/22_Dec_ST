@@ -340,6 +340,44 @@ Non Functionaltiy ---Apart from functionaltiy , system working properly or not ,
 					--- load time ,responce time ,security , easy to use 
 
 
+4th Feb 
+     Test Design Techniques 
+			1. Black box testing
+					when we don't internal structure of application , we know about the input and output of the application
+					Generally tester are doing black box testing .
+					This technique is widely use for regession,acceptance and system testing.
+				Techniques
+					i -- EP - Equivallance Partition  --- age (18-55) 
+								18,19,20,21,22.....55
+								1,2,3,4.....17
+								56,57,58,....120
+								not fesible 
+								partition ---valid and invalid 
+								valid (18-55)   ---- 45 
+								invalid (<18)   ---- 15  --- error/defect i will try to test with more values 10,-18
+								invalid (>55)   ----109 
+					ii--BVA --- Boundary Value Analysis ---age (18-55)
+									lower boundry-1,lower boudry ----upper bourdry,upper boudry+1
+									17,18 ---55,56
+	
+					iii)Desicion Table --- 
+								based on certain condition we have to take decision 
+						condition1   -----   condition2			response
+						 True					True			Yes
+						 True					False			No
+						 False					True			No
+						 False					False			No
+
+					iv) State transition testing ---Lab task 
+
+								
+
+			2. White box testing
+					knowledge of internal structure
+					path,loops,security ,unit testing 
+			3. Gray box testing
+
+   
 			
 
 
@@ -349,6 +387,7 @@ Non Functionaltiy ---Apart from functionaltiy , system working properly or not ,
 
 
 	
+
 
 
 
