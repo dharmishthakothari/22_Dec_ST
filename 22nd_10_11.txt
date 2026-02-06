@@ -377,6 +377,55 @@ Non Functionaltiy ---Apart from functionaltiy , system working properly or not ,
 					path,loops,security ,unit testing 
 			3. Gray box testing
 
+6th Feb 
+
+---Test Levels
+---Test Desgining Techniques 
+			1. Black Box testing
+					i)  Equivallance Partition
+					ii) Boundry Value Analysis
+					iii) Decision Table 
+					iv) State transition 
+			2.White Box testing
+					Testing with knowledge of internal structure 
+					Developer or tester who knows coding/internal structure 
+					--all path/conditions/code are execution
+					--unit testing
+					techniques
+					i)Path Coverage
+					ii)Statement Coverage
+					iii)Branch Coverage
+					iv) Condition Coverage
+
+		3. Gray Box Testing
+			limited knowledge of internal structure 
+			advantage of white and black 
+				
+		Experienced based techniques
+				Mainly focus/depends on tester's knowledge and skill .
+				limited requirement 
+
+				i)Error guessing  --- based on past experience ,past project , we know the week area,we are guessing the error 
+				ii)Exploratory --- simultanouesly learn,design test case and test/execute the application 
+			    iii)Ad -hoc -- informal/unstructure ,no formal test cases or document
+
+Time limited, skill tester and less risk 
+do simutaneous test case design and execution - 
+
+
+REGRESSION TESTING -- To check exsting functionality doesn't effect due to new functionality added.
+					 -- Due to code changes , new functionality added or performance issue fix ,already working software doen't not affected 
+					e.g Whatapp --due to status,channel added feature , already working (calling/chating) does not affected .
+					Rerunning already passed Test cases
+
+	
+RETESTING ----
+
+
+
+Lab task : read all the techniques 
+
+
    
 			
 
@@ -387,6 +436,7 @@ Non Functionaltiy ---Apart from functionaltiy , system working properly or not ,
 
 
 	
+
 
 
 
