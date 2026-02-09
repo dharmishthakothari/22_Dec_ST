@@ -426,7 +426,34 @@ RETESTING ----
 Lab task : read all the techniques 
 
 
-   
+   9th Feb
+
+1 What is Testing
+2. What is Test Plan
+3. Which are Level of Testing?
+4. Diffretiate Unit and Integration Testing.
+5. What is Test cases ? Why it is used?Which are the fields of test cases?
+6. Differentiate Alpha and Beta testing .
+7. Responsibility of tester
+8. Benifit of Independent tester
+9. What is diff between test case and test scenarioes?
+10. Which are the testing activies?
+
+White Box 
+		Statement Coverage
+		Path coverage
+		Desicion coverage
+		Branch Coverage
+		-Developer - Security holes and all stmt/program stmt/condition must executes.
+Grey Box 
+	   expreienced based testing
+			error guessing
+			ad hoc testing
+			exploratory testing
+Regression Testing --- 
+				widely used terminology 
+			
+
 			
 
 
@@ -436,6 +463,7 @@ Lab task : read all the techniques
 
 
 	
+
 
 
 
