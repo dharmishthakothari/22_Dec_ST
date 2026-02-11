@@ -453,8 +453,26 @@ Grey Box
 Regression Testing --- 
 				widely used terminology 
 			
+11th Feb
+  --- Regression- already test case passes 
+                - time constraints --- test cases 1000 --
+				How to select regression test cases ....
+				1. Retest all
+				2. Based on Priority 
+				3. Based on Risk 
 
-			
+---Retesting/Confirmation Testing
+ Lab Task : regression vs Retesting
+
+			Execute passed test cases is doing in regression to check/confirm due to
+            i. updatation
+			ii) New feature added
+            iii)Performance fixes
+           does not affect my working functionality .
+
+Smoke/Sanity 
+
+Smoke /Sanity --- read 
 
 
 
@@ -463,6 +481,7 @@ Regression Testing ---
 
 
 	
+
 
 
 
