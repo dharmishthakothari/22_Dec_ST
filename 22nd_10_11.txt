@@ -474,6 +474,40 @@ Smoke/Sanity
 
 Smoke /Sanity --- read 
 
+13th Feb
+Smoke 
+--- main functionality is working
+---build is stable
+---we can open application 
+--all menus are working
+
+if smoke testing pass  then will go for the sanity 
+Sanity --- if minor change/add new functionality to build then we are checking that this work or not
+---if it works then will go for the detail/regression testing
+
+
+Smoke 							vs 				Sanity
+critical functionality							New functionality add/update working or not
+Developer/Tester								Tester
+documented										not documented 
+subset of acceptance							subset regession 
+
+
+END-To-END testing
+
+Lab Task : Smoke and Sanity  read
+2. End to End testing vs System testing
+
+2 Types of testing 
+i) Static testing ----  without executing code/software, we are doing testing i.e static testing
+					Review documents , reviews software/source code
+					Verification 
+					defect Prevention
+					e.g Review , Walkthrough , inspection 
+
+ii) Dynamic Testing ---- with executing software is called dynamic testing
+ 						functional and non functionality testing 
+
 
 
 
@@ -481,6 +515,7 @@ Smoke /Sanity --- read
 
 
 	
+
 
 
 
