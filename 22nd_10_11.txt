@@ -508,13 +508,21 @@ i) Static testing ----  without executing code/software, we are doing testing i.
 ii) Dynamic Testing ---- with executing software is called dynamic testing
  						functional and non functionality testing 
 
+16th Feb 
 
+Day1    ---- Testing Activities 
+day2     ---- day1+ test cases -test sceanrios
+day3 ----     day1+day2 + regression and retesting , static and dynamic
+day4 ---- day1+2+3 , Black box , white box , expereince based
+day5 --- day 4 , testing levels 
+day 6 --- all 
 
 
 
 
 
 	
+
 
 
 
