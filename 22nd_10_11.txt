@@ -517,11 +517,29 @@ day4 ---- day1+2+3 , Black box , white box , expereince based
 day5 --- day 4 , testing levels 
 day 6 --- all 
 
+20th Feb
+
+Scrum - Agile 
+
+Sprint / short cycle / iteration 
+Product owner -- write user stories , and set priorities 
+Product backlog  - document where stores are stored 
+Sprint Planning
+Scrum Master 
+user stories / requirement 
+iteration 
+stand up  - daily 5 minutes meeting ....discuss about the task 
+
+
+
+Defect Report : Defect Life cycle 
+difference between actual and expected result is defect 
 
 
 
 
 	
+
 
 
 
