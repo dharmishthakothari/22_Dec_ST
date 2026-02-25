@@ -1,0 +1,14 @@
+API --- Application programing interface.
+---bridge to communicate two application 
+Zomato - map - Google
+
+api -- backend , fast 
+  http status code   - 200 , 400 , 500
+http methods - get , post , put ,patch , delete 
+postman
+
+document api work 
+url
+method
+data
+auntitication
