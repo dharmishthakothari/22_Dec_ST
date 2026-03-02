@@ -16,4 +16,7 @@ auntitication
 
 27th feb 
 
+---get
+---post 
+--postman 
 
