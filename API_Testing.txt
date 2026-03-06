@@ -20,3 +20,12 @@ auntitication
 ---post 
 --postman 
 
+6th Feb
+
+HTTP methods   -- get ,post ,put,patch ,delete 
+status code - 2,4,5
+request paramters  , authenticate ,body
+response body ,status , data 
+
+
+
