@@ -1,0 +1,48 @@
+Database ---> To store/to store Permanenetly 
+Database Management System --- DBMS --- To manage database 
+RDBMS --- Relational Database Management System  (Tables are related )
+Tools --- MS-Access , MySql , SQL Server , Oracle,postgre ,  (SQL)
+
+--Manipulation 
+--retrival /fetch
+
+Language ---SQL  (Structure Query Langauge)
+
+---data access,
+---change
+--delete
+--insert 
+--permiss
+--transection
+--contrains 
+
+SQL --- Types of statement 
+1. DDL  (Data Definition Language)   --- relate to table (create,alter,drop)
+2. DML  (Data manipulate Language)   ---related to data (insert , update,delete)
+3. DQL  (Data Query Language)      ---it won't affect the data-retrival (select)
+4. DCL  (Data Control Language)  ---  permission (grant,revoke)
+
+Constraints ---- limitation/rules 
+1. Primary key
+2. forighn key
+3. not null
+4. unique key
+5. check constraint
+
+Database Oject 
+--Tables 
+---views
+---Store procedure
+---trigger
+--functions
+
+TABLES ---- row/colum---data
+row ---data/record
+column --- fields
+Students
+id,name,c_no,address,birthDate  (column)
+1  Rohit 3434 CGRoad 2nd March 2000 --row/data
+2  Tarun  233 Paldi  4th Apr 2000 ---row/data
+
+
+
