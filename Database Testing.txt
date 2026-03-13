@@ -44,5 +44,56 @@ id,name,c_no,address,birthDate  (column)
 1  Rohit 3434 CGRoad 2nd March 2000 --row/data
 2  Tarun  233 Paldi  4th Apr 2000 ---row/data
 
+13th March 
+-create database college
+  execute
 
+database --tables 
+          views
+          stored procedures
+          functions
+
+tables ---
+      filed Name/filed type
+      student table  
+            student name      characters----varchar
+            rollnumber        numerics  --- int
+            b'date            date  ---date
+            address            varchar
+            c_number           numerics --- int   
+            email_address      varchar
+            semester            numeric --- int  (4)
+            fees                numeric ---decimal (12000.23)
+  data types 
+      which type of data you are storing ?
+      numeric  --- decimal-non decimal 
+      string --- char,varchar,text...
+      date/time---date,datetime
+
+TABLE create 
+
+create table student(rollnumber int,sname varchar(20),b_date date,
+address varchar(50),
+email varchar(20),
+c_no int,
+fees decimal(7,2)
+)
+
+Alter Table--
+
+table already created that we have to change
+create table student(rollnumber int,sname varchar(20),b_date date,
+address varchar(50),
+email varchar(20),
+c_no int,
+fees decimal(7,2)
+);
+
+describe student;
+
+alter table student add column semster int;
+
+describe student;
+
+      
 
