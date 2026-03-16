@@ -95,5 +95,21 @@ alter table student add column semster int;
 
 describe student;
 
-      
+16th March 
+
+alter table student drop column email;
+
+-- table drop
+permanenet drop the table
+drop table student;
+--
+DML
+data insert --
+insert into table_name(col2,col2,col3,col4) values(va1,val2,val3,val4);
+insert into student(rollnumber,sname) value(101,'Yash')
+
+
+insert into student(rollnumber,sname,email) value(101,'Yash','yash@gmail.com');
+select * from student;
+
 
