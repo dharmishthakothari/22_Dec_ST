@@ -112,4 +112,52 @@ insert into student(rollnumber,sname) value(101,'Yash')
 insert into student(rollnumber,sname,email) value(101,'Yash','yash@gmail.com');
 select * from student;
 
+18th March 
+--insert multiple records 
+insert into student(rollnumber,sname,email) values(101,'Yash','yash@gmail.com'),
+(201,"Rohit","rohit@gmail.com"),
+(301,"Tarun","Tarun@gmail.com"),
+(401,"Dharmishtha","dharmishtha@gmail.com")
 
+constraints 
+1. Primary key ---to uniquely identify records.
+  ---not null + unique
+table contains one primary key
+eg. rollno,m_no,email,emp_id
+
+2. unique key --- to uniquely identify record.
+it allows one value as NULL
+table contains more then one   unique key
+
+3. Foreighn key ---
+HR,
+Finance
+Sales 
+Marketing
+HR ke 4 employee
+Sales -10 employees
+Marketing 6 employee
+----PK references to another table
+
+4. Not null
+Lab Task : Primary key vs Unique key vs Forighen key
+
+create table student(r_no int primary key,
+sname varchar(50) not null,
+email varchar(20) unique key,
+c_no int unique key)
+
+--------
+
+create table department(dept_id int primary key,dept_name varchar(20));
+
+
+create table employee(emp_id int primary key,
+emp_name varchar(20) not null,
+email varchar(20) default 'test@gmail.com',
+city varchar(20),
+salary int,
+did int,
+foreign key(did) references department(dept_id)
+
+);
