@@ -161,3 +161,65 @@ did int,
 foreign key(did) references department(dept_id)
 
 );
+
+20th March 
+create table ,
+ constraint 
+
+(201,'Finance'),
+(301,'Marketing');
+
+insert into employee values(1,'Rohit','r@gmail.com','Ahmedabad',23000,101),
+(2,'Yash','y@gmail.com','Baroda',18000,201),
+(3,'Tarun','t@gmail.com','Surat',25000,301),
+(4,'Dharmishtha','d@gmail.com','Ahmedabad',20000,101),
+(5,'Rohit','r@gmail.com','Ahmedabad',23000,101);
+
+select * from department;
+select * from employee;
+update employee set salary=salary+200 where emp_id<=1120;
+
+select * from employee;
+
+
+delete from employee where emp_id=3;
+
+select * from employee;
+
+
+delete --- record delete 
+update ---record update
+select --- fetch data ---no impact on data
+
+cluase where , in , between and ,or ,not ,<,<=,>=,like 
+
+---- fetch those employee details whose salary is more then 20000
+select * from employee where salary>20000;
+
+---fetch those employees who work in ahmedabad
+select * from employee where city='Ahmedabad';
+
+---fetch name and city who works in 101 department
+select emp_name,city from employee where did=101;
+
+--fetch name of employee who works in Surat city and earn 25000
+select emp_name from employee where salary=25000 and city='Surat';
+
+--fetch employee details who works in ahmedabad city or earn less than 25000
+select * from employee where salary<25000 or city='Ahmedabad';
+
+---fetch name and city name who earn salary 20000 to 25000
+select emp_name,city from employee where salary between 20000 and 25000;
+
+--- fetch name,city and employee id from employee who work in Baroda and Surat
+select emp_name,emp_id,city from employee where city in('Surat','Baroda');
+
+select emp_name,emp_id,city from employee where city not in('Baroda','Surat');
+
+select emp_name from employee where city is not null;
+
+
+
+create table student(sid int primary key auto_increment )
+
+
