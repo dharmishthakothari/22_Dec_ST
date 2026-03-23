@@ -222,4 +222,79 @@ select emp_name from employee where city is not null;
 
 create table student(sid int primary key auto_increment )
 
+23rd march
+---SQl -- insert, update ,delete
+---select --- in ,where , between and , not in
+--constraints
 
+like  ---- employee name whose name starts with r
+
+--- select * from employee where emp_name like 'r%';
+fetch employee name and salary whose name have 'a' letter
+---select emp_name,salary from employee where emp_name like '%a%';
+
+fetch those employees details whose name have a second letter as 'a';
+_-select * from employee where emp_name like '_a%';
+
+
+
+          meta characters --- %(multiple),_(single)
+join
+
+
+
+
+CREATE TABLE departments (
+    dept_id INT PRIMARY KEY,
+    dept_name VARCHAR(50)
+);
+
+CREATE TABLE employees (
+    emp_id INT PRIMARY KEY,
+    emp_name VARCHAR(50),
+    gender CHAR(1),
+    salary DECIMAL(10,2),
+    hire_date DATE,
+    dept_id INT,
+    FOREIGN KEY (dept_id) REFERENCES departments(dept_id)
+);
+
+INSERT INTO departments VALUES
+(1, 'HR'),
+(2, 'Finance'),
+(3, 'Sales'),
+(4, 'IT');
+
+INSERT INTO employees VALUES
+(101, 'Amit Sharma', 'M', 60000, '2021-03-12', 3),
+(102, 'Priya Singh', 'F', 75000, '2019-11-20', 2),
+(103, 'Ravi Patel', 'M', 55000, '2022-01-05', 3),
+(104, 'Neha Verma', 'F', 90000, '2018-07-15', 4),
+(105, 'Karan Mehta', 'M', 50000, '2023-04-10', 1),
+(106, 'Sneha Rao', 'F', 95000, '2020-05-25', 4);
+
+
+Display all columns from the employees table.
+Show only employee names and their salaries.
+List all female employees.
+Display the names of employees who work in the IT department.
+Find employees whose salary is less than ₹60,000.
+List employees whose salary is between ₹55,000 and ₹90,000.
+Display all employees whose name starts with “N”.
+Show all employees whose name ends with “a”.
+Display employees who joined in the year 2023.
+List all male employees from the Sales department.
+Find all employees whose department ID is either 2 or 4.
+Show departments whose name starts with ‘S’.
+
+Count how many departments exist in the company.
+Sort departments alphabetically.
+
+Show each employee’s name with their department name.
+
+Display employee name, department name, and salary for all employees.
+Find the average salary of each department.
+
+Count total employees in each department.
+
+Lab Task : perform query
