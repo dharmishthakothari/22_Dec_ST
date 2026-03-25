@@ -298,3 +298,48 @@ Find the average salary of each department.
 Count total employees in each department.
 
 Lab Task : perform query
+
+25th march 
+---print employee name with department name ,
+---fetch employee details who works in 'IT' name
+
+joining common field 
+fetch common data
+
+---fetch employee name,eid , salary and department name 
+select emp_id,emp_name,salary,dept_name from employees,departments
+where 
+employees.dept_id=departments.dept_id
+
+--- fetch employee name,eid , salary and department name who works in IT department
+select emp_id,emp_name,salary,dept_name from employees,departments
+where 
+employees.dept_id=departments.dept_id and dept_name='IT';
+
+--- no of employees in each department (group by)
+count aggregate function 
+select dept_name,count(emp_id) from employees,departments
+where employees.dept_id=departments.dept_id group by dept_name;
+
+--- find maximum salary in each department (group by)
+select dept_name,max(salary) as 'maximum salary' from employees,departments
+where employees.dept_id=departments.dept_id group by dept_name;
+
+--- sum,avg,count,min,max
+
+having clouse is condition on group by 
+--find those department whose employees are more then 2 
+
+
+inner join 
+left join ,right join
+full join
+
+LEFT JOIN
+select emp_id,emp_name,salary,dept_name from employees 
+left join departments on employees.dept_id=departments.dept_id;
+
+RIGHT JOIN
+
+select emp_id,emp_name,salary,dept_name from employees 
+right join departments on employees.dept_id=departments.dept_id;
