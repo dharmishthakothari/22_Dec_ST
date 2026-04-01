@@ -28,3 +28,17 @@ Mobile Testing ----
 ---app storage 
 --app performance 
 --interact with other app (allow ),location
+
+1st April
+
+WebApplication ---- 
+start ,
+close
+crash
+performance
+cursor
+functionality 
+non-functionality
+database 
+
+
