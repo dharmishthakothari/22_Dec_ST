@@ -1,0 +1,30 @@
+Live Application Testing : 
+Web, Desktop & Mobile Application Testing (Foundations)
+---- 
+Web Applicaiton ---- runs of browser (on mobile / on PC), internet connectivity , multiple user
+                      eg. www.amazon.com  ---- www.makemytrip.com
+Destop Application  --- runs on PC/Laptops , no internst connectivity require
+                      eg. POSTMAN ,TuboC , point-of-sale ,Single user 
+
+mobile application --- runs on mobile , strava ,amazon,messanger , apk file 
+                        os type depends apk , ios 
+
+--- compatibility testing  ----- 
+    type --- non functional testing 
+--- device compatible 
+--- os compatible
+--- browser compatible 
+
+Mobile Testing ----
+---size of app
+---installation of app
+---opening
+---connectivity
+---battery usage 
+---data usage
+--interchange between apps/backgroud apps
+---notifications
+---phone calls 
+---app storage 
+--app performance 
+--interact with other app (allow ),location
